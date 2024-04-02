@@ -1,8 +1,9 @@
+## NAME:KAMALESH S
+## REG NO: 212223040083
+
+
 #  Mean and variance of a discrete  distribution
-NAME:Kamalesh s
 
-
-REG NO:212223040083
 
 
 # Aim : 
@@ -50,6 +51,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Experiment :
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
+
+
+
 
 # Program :
 ![image](https://github.com/kaviya546/Mean-and-Variance/assets/150368823/ab055f56-dff2-4b61-af1f-a5930a72f512)
