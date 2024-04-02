@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
 NAME:Kamalesh s
+
+
 REG NO:212223040083
 
 
