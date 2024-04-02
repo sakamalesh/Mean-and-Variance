@@ -55,6 +55,21 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Program :
 ![image](https://github.com/kaviya546/Mean-and-Variance/assets/150368823/ab055f56-dff2-4b61-af1f-a5930a72f512)
 
